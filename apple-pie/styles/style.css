@@ -22,3 +22,44 @@ body {
 
 /* STYLES */
 /* Write your CSS below */
+
+article h1{
+  background-image:url(../images/apple-pie.jpg);
+  text-align:center;
+  font-size: 30px;
+  padding-top: 250px;
+  padding-bottom: 250px;
+  color:white;
+  font-size: 125px;
+}
+
+article img{
+  
+  border-bottom: 50px;
+ padding-left: 300px;
+}
+article p{
+  text-align: center;
+padding-top: 30px;
+}
+
+
+section h3{
+  padding: 30px;
+  margin-left: 80px;
+}
+
+section {
+  margin-left:80px;
+  border: 20px;
+  padding-bottom: 30px;
+}
+section img{
+  border-bottom: 50px;
+  padding-left: 300px;
+}
+
+
+
+
+
